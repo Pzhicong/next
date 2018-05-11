@@ -1,7 +1,7 @@
 ---
 title: 使用Hexo搭建个人博客
 layout: post
-date: 2014-03-03 19:07:43
+date: 2016-05-03 19:07:43
 comments: true
 categories: Blog
 tags: [Hexo]
