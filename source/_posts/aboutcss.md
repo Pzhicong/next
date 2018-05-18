@@ -5,7 +5,7 @@ tags: [css]
 description: css记录
 ---
 
-## CSS中一个冒号和两个冒号有什么区别  [链接](https://shimo.im/doc/y18XXPd7hicGHr2H/)
+## CSS中一个冒号和两个冒号有什么区别  [链接](https://shimo.im/doc/y18XXPd7hicGHr2H/) [链接](http://www.alloyteam.com/2016/05/summary-of-pseudo-classes-and-pseudo-elements/)
 
 我们来说说什么是伪类。
 根据w3c，CSS 伪类用于向某些选择器添加特殊的效果。最常见的就是对a元素的一些伪类了，比如a:linked,a:visted,a:hover,a:active等等。
