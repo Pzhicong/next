@@ -35,4 +35,3 @@ p:nth-of-type(2) 选择每个p元素是其父级的第二个p元素 (p:nth-last-
 
 #### ::first-letter ::first-line ::selection
 <iframe width="100%" height="300" src="//jsrun.net/ZDZKp/embedded/all/light/" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
-
